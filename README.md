@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiAyNC41TUIvcyIsImFkZCI6IjE2NS4xNDAuMjE2LjE0MSIsInBvcnQiOiI0NDMiLCJpZCI6ImU3ZDcyYThkLTI2ZjItNGI1NC1iMzY2LTBjNDNlMGJjYmE3ZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyAyNy43TUIvcyIsImFkZCI6IjE5OC42Mi42Mi4xOTkiLCJwb3J0IjoiNDQzIiwiaWQiOiJmMDgzNjlkMS01ZWU3LTRiMTYtZDc4Ni0zMGJjZTEyZmMzM2MiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJvdXMzLmRlYW41Mi50b3AiLCJwYXRoIjoiL2YwODM2OWQxLTVlZTctNGIxNi1kNzg2LTMwYmNlMTJmYzMzYyIsInRscyI6InRscyIsInNuaSI6Im91czMuZGVhbjUyLnRvcCIsInRlc3RfbmFtZSI6IjMifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNCIsImFkZCI6IjguMjEwLjE0MC4yMyIsInBvcnQiOiI1NDgwOSIsImlkIjoiZmRlNzNkYWYtY2M2Ny00MmYzLTk5MzUtMzViMTMyYjAxYWJkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoiIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI0In0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A7
-trojan://BxceQaOe@43.207.103.90:2399?sni=t.me/ripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
+trojan://0a169d7d-a30f-4d90-af1b-55f6ef6afcb7@green2.cdntencentmusic.com:35501?sni=green2.cdntencentmusic.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+trojan://humanity@104.18.32.47:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment#%E6%9C%AA%E7%9F%A52
+trojan://BxceQaOe@52.199.90.129:32536?sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
+trojan://humanity@v1.dabache.top:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#%E6%9C%AA%E7%9F%A53
+trojan://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@scvf65.0z0.ccwu.cc:443?sni=scvf65.0z0.ccwu.cc#%F0%9F%87%B3%F0%9F%87%B1NL%E8%8D%B7%E5%85%B0
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
